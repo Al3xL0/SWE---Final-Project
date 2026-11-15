@@ -1,0 +1,3 @@
+# The examples installation should be removed after making a few test
+bsk[all,examples]
+pytest
